@@ -1,0 +1,13 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Local environment files
+.env
+
+# Dependency directories
+node_modules/
+
+# Editor Directories
+.vscode/
