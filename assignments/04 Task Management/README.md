@@ -5,8 +5,9 @@ Task Management is a web application that allows users to create, manage, and tr
 ## Features
 
 - ✅ Add a new task
-- ❌ Edit a task
-- ❌ Delete a task
+- ✅ Edit a task
+- ✅ Delete a task
 - ✅ Mark a task as completed
 - ✅ Number of tasks
 - ✅ Completed tasks count
+- ❌ Local Storage
